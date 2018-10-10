@@ -5,5 +5,5 @@ Seminars on topics related to psychology cognitive sciences and artificial intel
 ### Seminar History
 
 + 18 - 01 - 2018 [Language, Knowledge Representation and Embeddings](seminars/seminar_18_01_2018.md)
-+ 26 - 10 - 2018 [Meaning, Analogical Reasoning and Time](seminars/seminar_26_10_2018.d)
++ 26 - 10 - 2018 [Meaning, Analogical Reasoning and Time](seminars/seminar_26_10_2018.md)
 
