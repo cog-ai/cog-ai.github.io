@@ -1,6 +1,6 @@
 ## Seminars on Cognitive Science and Artificial Intelligence
 
-Seminars on topics related to psychology cognitive sciences and artificial intelligence. Held by the Department of Psychology and the Department of Computer Science of the University Milano-Bicocca.
+Seminars on topics related to psychology cognitive sciences and artificial intelligence. Held by the Department of Psychology and the Department of Computer Science of the University of Milano-Bicocca.
 
 ### Seminar History
 
