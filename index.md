@@ -9,4 +9,4 @@ Seminars on topics related to psychology cognitive sciences and artificial intel
 
 ### Contacts
 
-You can contact Federico Bianchi for information about these seminars: federico (dot) bianchi (at) disco (dot) unimib (dot) it
+You can contact Federico Bianchi or Matteo Plamonari for information about these seminars: federico (dot) bianchi (at) disco (dot) unimib (dot) it and matteo (dot) palmonari (at) disco (dot) unimib (dot) it
