@@ -4,9 +4,14 @@ Seminars on topics related to psychology cognitive sciences and artificial intel
 
 ### Seminars History
 
-+ 18 - 01 - 2018 [Language, Knowledge Representation and Embeddings](seminars/seminar_18_01_2018.md)
 + 26 - 10 - 2018 [Meaning, Analogical Reasoning and Time](seminars/seminar_26_10_2018.md)
+
+### Related Events
+
++ 18 - 01 - 2018 [Language, Knowledge Representation and Embeddings](seminars/seminar_18_01_2018.md)
 
 ### Contacts
 
-You can contact Federico Bianchi or Matteo Plamonari for information about these seminars: federico (dot) bianchi (at) disco (dot) unimib (dot) it and matteo (dot) palmonari (at) disco (dot) unimib (dot) it
+You can contact Federico Bianchi or Matteo Plamonari for information about these seminars: 
++ federico (dot) bianchi (at) disco (dot) unimib (dot) it 
++ palmonari (at) disco (dot) unimib (dot) it
