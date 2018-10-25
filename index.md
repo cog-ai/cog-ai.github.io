@@ -4,7 +4,9 @@ Seminars on topics related to psychology, cognitive sciences and artificial inte
 
 ### Next Event
 
-+ 26 - 10 - 2018 [Meaning, Analogical Reasoning and Time](seminars/seminar_09_11_2018.html)
+*The event scheduled for the 26th of October has been rescheduled*
+
++ 09 - 11 - 2018 [Meaning, Analogical Reasoning and Time](seminars/seminar_09_11_2018.html)
 
 ### Related Events
 
