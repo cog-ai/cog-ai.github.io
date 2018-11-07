@@ -13,7 +13,7 @@ If you want to receive updates on the events we organize you can subscribe to th
 
 ### Contacts
 
-If interested, you can contact Federico Bianchi or Matteo Plamonari 
+You can contact Federico Bianchi or Matteo Plamonari 
 for information about these seminars or if you want to propose a talk: 
 + federico (dot) bianchi (at) disco (dot) unimib (dot) it 
 + palmonari (at) disco (dot) unimib (dot) it
