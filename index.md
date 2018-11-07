@@ -1,6 +1,7 @@
 ## Seminars on Cognitive Science and Artificial Intelligence
 
 Seminars on topics related to psychology, cognitive sciences and artificial intelligence. Held by the Department of Psychology and the Department of Computer Science of the University of Milano-Bicocca.
+If you want to receive updates on the events we organize you can subscribe to the following [newsletter]( https://buttondown.email/vinid).
 
 ### Next Event
 
@@ -12,6 +13,7 @@ Seminars on topics related to psychology, cognitive sciences and artificial inte
 
 ### Contacts
 
-You can contact Federico Bianchi or Matteo Plamonari for information about these seminars: 
+If interested, you can contact Federico Bianchi or Matteo Plamonari 
+for information about these seminars. Talks proposals are very welcomed: 
 + federico (dot) bianchi (at) disco (dot) unimib (dot) it 
 + palmonari (at) disco (dot) unimib (dot) it
