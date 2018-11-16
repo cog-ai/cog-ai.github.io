@@ -12,6 +12,8 @@ Seminars on topics related to psychology, cognitive sciences and artificial inte
 
 ### Newsletter
 
+If you want to stay up to date with our events and seminars you can subscribe to our mailing list. 
+
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -22,7 +24,6 @@ Seminars on topics related to psychology, cognitive sciences and artificial inte
 <div id="mc_embed_signup">
 <form action="https://github.us19.list-manage.com/subscribe/post?u=15c47e2ddaa992b3dab22bf2c&amp;id=75caaed186" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to our mailing list</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
