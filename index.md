@@ -4,13 +4,11 @@ Seminars on topics related to psychology, cognitive sciences and artificial inte
 
 ### Next Event
 
-+ TBD
++ 08 - 01 - 2019
 
 ### Past Events
 
 + 09 - 11 - 2018 [Meaning, Analogical Reasoning and Time](seminars/seminar_09_11_2018.html)
-
-### Related Events
 
 + 18 - 01 - 2018 [Language, Knowledge Representation and Embeddings](related/related_18_01_2018.md)
 
