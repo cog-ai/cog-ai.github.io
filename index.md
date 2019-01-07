@@ -4,7 +4,7 @@ Seminars on topics related to psychology, cognitive sciences and artificial inte
 
 ### Next Event
 
-+ 08 - 01 - 2019
++ 08 - 01 - 2019 [Distributional Models, Semantic Priming and Temporality](seminars/seminar_09_01_2019.html)
 
 ### Past Events
 
