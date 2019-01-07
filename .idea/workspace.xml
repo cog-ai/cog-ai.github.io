@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca278ded-bb28-41da-bac3-8f50fa63cbbd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/seminars/seminar_08_01_2019.md" afterPath="$PROJECT_DIR$/seminars/seminar_08_01_2019.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/seminars/seminar_09_11_2018.md" afterPath="$PROJECT_DIR$/seminars/seminar_09_11_2018.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,12 +31,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="seminar_09_11_2018.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="seminar_09_11_2018.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/seminars/seminar_09_11_2018.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="29">
-                <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <first_editor relative-caret-position="319">
+                <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -44,7 +44,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="seminar_08_01_2019.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="seminar_08_01_2019.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/seminars/seminar_08_01_2019.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -66,9 +66,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/seminars/seminar_26_10_2018.md" />
-        <option value="$PROJECT_DIR$/seminars/seminar_09_11_2018.md" />
         <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/seminars/seminar_08_01_2019.md" />
+        <option value="$PROJECT_DIR$/seminars/seminar_09_11_2018.md" />
       </list>
     </option>
   </component>
@@ -625,17 +625,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/seminars/seminar_09_11_2018.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="29">
-            <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -652,6 +641,17 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="348">
             <caret line="15" column="128" lean-forward="false" selection-start-line="15" selection-start-column="128" selection-end-line="15" selection-end-column="128" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seminars/seminar_09_11_2018.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="319">
+            <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             <folding />
           </first_editor>
           <second_editor />
